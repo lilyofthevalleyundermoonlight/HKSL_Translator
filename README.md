@@ -55,7 +55,7 @@ You can also use the packaged `.exe` version:
 
 ## Demo
 
-![App Screenshot](Recording 2026-04-29 023335.mp4)
+![Demo](demo.gif)
 
 ## Technologies used
 
