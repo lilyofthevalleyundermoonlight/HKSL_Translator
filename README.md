@@ -32,17 +32,18 @@ This tool helps bridge that gap by converting speech into sign language automati
 
 ## Important
 
-- Keep the `data/` folder in the same directory
-- Make sure microphone access is enabled
--- If asked for permission → click Allow
--- If recording does not work:
+- Keep the `data/` folder in the same directory as the app.
+- Make sure microphone access is enabled.
+- If Windows asks for microphone permission, click **Allow**.
 
-    1. Press Windows + I
-    2. Go to Privacy & Security → Microphone
-    3. Turn ON:
-       - Microphone access
-       - Let desktop apps access your microphone
-    4. Restart the app
+If recording does not work:
+
+1. Press **Windows + I**.
+2. Go to **Privacy & Security → Microphone**.
+3. Turn on:
+   - **Microphone access**
+   - **Let desktop apps access your microphone**
+4. Restart the app.
 
 ## For non-technical users
 
