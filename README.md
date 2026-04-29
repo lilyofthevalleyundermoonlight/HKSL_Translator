@@ -27,8 +27,10 @@ This tool helps bridge that gap by converting speech into sign language automati
 
 ## How to run
 
-1. Install dependencies: `pip install -r requirements.txt`
-2. Run the app: `python app.py`
+1. Open Terminal in the folder
+2. Install dependencies: `py -m pip install -r requirements.txt`
+3. If FFmpeg is not installed, it should be installed first: `winget install Gyan.FFmpeg`
+4. Run the app: `py app.py`
 
 ## Important
 
